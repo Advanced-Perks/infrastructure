@@ -7,36 +7,42 @@
       "elements": [
         {
           "function": "close_gui",
-          "representations": {
-            "DEFAULT": {
-              "title": "Title of Test ItemStack",
-              "material": "DIAMOND_SWORD",
-              "amount": 3,
-              "glowing": false
+          "representations": [
+            {
+              "state": "DEFAULT",
+              "representation": {
+                "title": "Title of Test ItemStack",
+                "material": "DIAMOND_SWORD",
+                "amount": 3,
+                "glowing": false
+              }
             }
-          },
+          ],
           "slot": 6
         },
         {
           "function": "enable_perk_1",
-          "representations": {
-            "DEFAULT": {
-              "title": "Title of Test ItemStack",
-              "material": "DIRT",
-              "amount": 23,
-              "glowing": false
+          "representations": [
+            {
+              "state": "DEFAULT",
+              "representation": {
+                "title": "Title of Test ItemStack",
+                "material": "DIRT",
+                "amount": 23,
+                "glowing": false
+              }
             }
-          },
+          ],
           "slot": 3
         },
         {
           "function": "enable_perk_2",
-          "representations": {
-            "DEFAULT": {
-              "title": "Title of Test Textured Skull",
-              "textureValue": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjVmMTYyNmZlOWE4MDk5ZGZiNDhjZjhlYjE0OTRmMjUyNzgxMWZjODJmZmY3MzUxMGExYzE5NzA3ZDRiZTY2In19fQ=="
-            }
-          },
+          "representations": [
+            {
+          "representation": {
+            "title": "Title of Test Textured Skull",
+            "textureValue": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjVmMTYyNmZlOWE4MDk5ZGZiNDhjZjhlYjE0OTRmMjUyNzc4MTFmYzgyZmZmNzM1MTBhMWMxOTcwN2Q0YmU2NiJ9fX0="
+            },
           "slot": 14
         }
       ]
