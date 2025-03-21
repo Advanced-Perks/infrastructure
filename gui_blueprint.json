@@ -50,7 +50,7 @@
   },
   "pagination_button": {
     "previous_page_button": {
-      "showAlways": true,
+      "show_always": true,
       "slot": 50,
       "representation": {
         "title": "&7Previous Page",
@@ -58,7 +58,7 @@
       }
     },
     "next_page_button": {
-      "showAlways": true,
+      "show_always": true,
       "slot": 52,
       "representation": {
         "title": "&7Next Page",
