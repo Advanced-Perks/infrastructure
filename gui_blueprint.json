@@ -1,6 +1,6 @@
 {
   "title": "&8&lChoose a perk...",
-  "size": 56,
+  "size": 54,
   "background": {
     "enabled": true,
     "representation": {
@@ -50,14 +50,14 @@
   },
   "pagination_button": {
     "previous_page_button": {
-      "slot": 52,
+      "slot": 50,
       "representation": {
         "title": "&7Previous Page",
         "textureValue": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODY0Zjc3OWE4ZTNmZmEyMzExNDNmYTY5Yjk2YjE0ZWUzNWMxNmQ2NjllMTljNzVmZDFhN2RhNGJmMzA2YyJ9fX0="
       }
     },
     "next_page_button": {
-      "slot": 54,
+      "slot": 52,
       "representation": {
         "title": "&7Next Page",
         "textureValue": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDllY2NjNWMxYzc5YWE3ODI2YTE1YTdmNWYxMmZiNDAzMjgxNTdjNTI0MjE2NGJhMmFlZjQ3ZTVkZTlhNWNmYyJ9fX0="
@@ -67,7 +67,7 @@
   "utility_button": {
     "close_gui_button": {
       "enabled": true,
-      "slot": 48,
+      "slot": 46,
       "representation": {
         "title": "&dClose Gui",
         "material": "BARRIER",
@@ -77,7 +77,7 @@
     },
     "disable_all_perks_button": {
       "enabled": true,
-      "slot": 50,
+      "slot": 48,
       "representation": {
         "title": "&dDisable all perks",
         "material": "REDSTONE_BLOCK",
