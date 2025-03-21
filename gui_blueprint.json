@@ -42,7 +42,7 @@
       },
       "inactive_representation": {
         "title": "&d{identifier} is inactive.",
-        "material": "CYAN_DYE",
+        "material": "GRAY_DYE",
         "amount": 1,
         "glowing": false
       }
