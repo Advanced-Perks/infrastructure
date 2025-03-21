@@ -11,7 +11,7 @@
     }
   },
   "perk_button": {
-    "activation_indicator": "PERK_TOGGLE_BUTTON",
+    "activation_indicator": "ENCHANTED_PERK_BUTTON",
     "inventory_slots": [
       1,
       3,
